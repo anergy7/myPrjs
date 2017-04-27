@@ -9,7 +9,7 @@ var url = "http://sh.lianjia.com/ershoufang/d";
 //初始url 
 
 function fetchPage(x) {     //封装了一层函数
-    for (j=1;j<1000;j++)
+    for (j=1;j<10;j++)
     {
     var y= x + String(j);
     startRequest(y);

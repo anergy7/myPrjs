@@ -1,0 +1,19 @@
+{
+  "name": "firstpj",
+  "version": "0.0.1",
+  "description": "first version of new project",
+  "main": "main.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anergy7/myPrjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anergy7/myPrjs/issues"
+  },
+  "homepage": "https://github.com/anergy7/myPrjs#readme"
+}
